@@ -16,7 +16,7 @@ Lo que distingue a PHP de algo de lado del cliente como JavaScript es que el có
 <?php
 
 	//Codigo
-	Console.log("Hola mundo"); 
+	echo("Hola mundo"); 
 
 ?> //Etiqueta de cierre
 ```
